@@ -1,6 +1,6 @@
 {
   "name": "erral.github.io",
-  "tagline": "Mikel Larreategi's erral page",
+  "tagline": "Mikel Larreategi's github page",
   "body": "### Talks\r\n\r\nThese are some talks I have lately given:\r\n\r\n- [EITB Nahieran: askatu bideoak API honen bidez](https://erral.github.io/eitbapi/) at [EuroPython 2016](https://ep2016.europython.eu/en/) in Bilbao\r\n\r\n- [Arbitraje en Ajedrez: ayer, hoy y mañana](https://erral.github.io/charla-arbitraje-bcn) in Barcelona, at a chess arbiters' meeting, organized by [Federació Catalana d'Escacs](http://www.escacs.cat)\r\n\r\n- [Ansible to rule the world](https://erral.github.io/ansible-to-rule-the-world) at [PySS 2016](https://pyss16.pyss.org) in Donostia.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
