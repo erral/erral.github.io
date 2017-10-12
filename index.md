@@ -2,7 +2,7 @@
 
 These are some talks I have lately given:
 
-- [Use case: Plone in multi-country, multi-language and multi-domain applications](http://github.com/codesyntax/cs.linguacopier) at [Plone Conference 2017](https://2017.ploneconf.org) in Barcelona (2017-10-18)
+- [Use case: Plone in multi-country, multi-language and multi-domain applications](https://erral.github.io/ploneconf2017-multi-plone/) at [Plone Conference 2017](https://2017.ploneconf.org) in Barcelona (2017-10-18)
 
 - [EITB Nahieran: askatu bideoak API honen bidez](https://erral.github.io/eitbapi/) at [EuroPython 2016](https://ep2016.europython.eu/en/) in Bilbao (2016-07-20)
 
